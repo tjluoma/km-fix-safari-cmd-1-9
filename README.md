@@ -1,7 +1,7 @@
 # km-fix-safari-cmd-1-9
-*Summary:* Apple has changed the way that ⌘+1 through ⌘+9 work in Safari. This changes it back.
+*Summary:* Apple has changed the way that ⌘1 through ⌘9 work in Safari. This changes it back.
 
-For as long as I can remember, Safari has used ⌘+1 through ⌘+9 to invoke the first 9 bookmarks in the “Favorites” toolbar.
+For as long as I can remember, Safari has used ⌘1 through ⌘9 to invoke the first 9 bookmarks in the “Favorites” toolbar.
 
 In Safari in the public betas of 10.11 (“¡El Capitan!”), ⌘1 through ⌘9 are now used to select the first-through-ninth currently “open" tab, and if you want to invoke the favorites you have to use ⌥⌘1 through ⌥⌘9.
 
