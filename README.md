@@ -21,11 +21,10 @@ Now:
 
 ## To Install
 
-[Download the Keyboard Maestro macro set][1] (right-click, save as) and make sure that the file name ends with “.kmmacros” (not “.kmmacros.txt or some such).
+[Download the Keyboard Maestro macro set][1], unzip, and double-click the .kmmacros file.
 
-Double-click on the .kmmacros file and the macros will be added to Keyboard Maestro, into a group called “Only in Safari” which will, as you might have guessed, mean that those macros will only be used in Safari.
-
+The macros will be added to Keyboard Maestro, into a group called “Only in Safari” which will, as you might have guessed, mean that those macros will only be used in Safari.
 
 [Keyboard Maestro]:	http://www.keyboardmaestro.com/main/
-[1]:	https://github.com/tjluoma/km-fix-safari-cmd-1-9/raw/master/Safari-fix-cmd-1-to-9.kmmacros
+[1]:	https://github.com/tjluoma/km-fix-safari-cmd-1-9/archive/master.zip
 
